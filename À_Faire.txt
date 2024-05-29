@@ -1,0 +1,5 @@
+Sortie breakeven
+MACD sur EMA
+ajouter possibilité de prendre en compte seulment la petite la grame moyenne mobile (ingore tendanciel MA)
+ajouter pattern bvougie de confirmation (b unidirectiponnelle avec volumes haut)
+inclure mm RSI
